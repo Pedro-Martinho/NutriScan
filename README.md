@@ -4,12 +4,12 @@ O NutriScan é uma aplicação feita em Flutter que lhe permite digitalizar faci
 
 
 ## Caraterísticas
-✅ Digitalize códigos de barras de produtos com a câmera do seu dispositivo
-✅ Obtenha instantaneamente valores nutricionais de uma API confiável
-✅ UI Flutter limpa, moderna e intuitiva
-✅ Suporte à plataforma Android
-✅ Leve e rápido
-✅ Fácil de estender com recursos adicionais
+-> Digitalize códigos de barras de produtos com a câmera do seu dispositivo
+-> Obtenha instantaneamente valores nutricionais de uma API confiável
+-> UI Flutter limpa, moderna e intuitiva
+-> Suporte à plataforma Android
+-> Leve e rápido
+-> Fácil de estender com recursos adicionais
 
 
 ## Instalação do Projeto
