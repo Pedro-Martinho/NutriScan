@@ -28,7 +28,7 @@ Certifique-se de que tem o Flutter instalado e configurado no seu computador.
 
 #### Opção 2: Descarregar o APK
 
-Basta descarregar o APK mais recente a partir da página de lançamentos
-Transferi-lo para o teu dispositivo Android
-Instale-o (poderá ter de permitir a instalação de fontes desconhecidas)
-Execute o NutriScan e comece a analisar!
+Basta descarregar o APK mais recente a partir da página de lançamentos <br>
+Transferi-lo para o teu dispositivo Android <br>
+Instale-o (poderá ter de permitir a instalação de fontes desconhecidas) <br>
+Execute o NutriScan e comece a analisar! <br>
